@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ou9ganlbi-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ou9ganlbi-go
